@@ -60,6 +60,7 @@ img{
     width:100%;
 }
 
+
 h1,
 h2,
 h3,
@@ -4097,7 +4098,9 @@ section,
 .portfolio-details .portfolio-details-content .cta-buttons .btn-next-project:hover i {
     transform: translateX(3px)
 }
-
+.footer .footer-main img {
+    width: 200px;
+}
 @media(max-width:1199.98px) {
     .portfolio-details .portfolio-details-content {
         padding-left: 1rem
